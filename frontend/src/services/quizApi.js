@@ -1,5 +1,5 @@
 // src/services/quizApi.js
-const API_BASE_URL = 'http://localhost:5000/api/quizzes';
+const API_BASE_URL = 'https://quizapplication-awta.onrender.com/api/quizzes';
 
 // Fetch the list of all quizzes
 export const getAllQuizzes = async () => {
